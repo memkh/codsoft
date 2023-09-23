@@ -1,6 +1,5 @@
 Hi Everyone 👋 <br>
 Madhav here from Delhi, Bharat.<br>
-<img src="">
 This is my github repo 📂 which I created with reference to my Codsoft Internship 🏢. In this internship , I had to complete 3 tasks listed below:- <br>
 <br>
 <strong>1. Landing Page</strong> : In this task , I cloned an awwwards website by a creative-design agency based in US , named as <em>Duo-studio</em>. I used multiple resources from youtube and google, to make this a reality. I had included multiple features like smooth scrolling, and scroll triggers to achieve this. I had also made a custom cursor which looks very nice. <storng>This website is only made for desktop screens and is not responsive as it is only made for big screens.</strong>
